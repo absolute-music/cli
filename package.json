@@ -21,6 +21,7 @@
   "bugs": {
     "url": "https://npm.community/c/bugs"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "directories": {
     "bin": "./bin",
     "doc": "./doc",
